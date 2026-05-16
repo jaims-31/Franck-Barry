@@ -1,10 +1,10 @@
-<h1 align="center">🎹 Hi, I'm [Ton Prénom]</h1>
+<h1 align="center">🎹 Hi, I'm Franck</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A970FF&center=true&vCenter=true&width=450&lines=SysAdmin+/+DevOps+Trainee;Pianist+%26+Composer;Simplon+Student" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/TON_PSEUDO?logo=github&style=flat-square&color=A970FF&labelColor=1c1c1c" alt="followers">
+  <img src="https://img.shields.io/github/followers/Franck-Barry?logo=github&style=flat-square&color=A970FF&labelColor=1c1c1c" alt="followers">
   <img src="https://img.shields.io/badge/Training-Simplon-red?style=flat-square&labelColor=1c1c1c" alt="Simplon">
   <img src="https://img.shields.io/badge/Location-France-blue?style=flat-square&color=A970FF&labelColor=1c1c1c" alt="location">
 </p>
@@ -72,7 +72,10 @@ Outside of tech, I am a passionate **pianist and composer**. I find a deep conne
 Feel free to reach out to discuss cloud architecture, automation strategies, or sheet music!
 
 <p align="center">
-  <a href="LIEN_DE_TON_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-A970FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/franck-barry-988467361/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@jaimsmusic">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
