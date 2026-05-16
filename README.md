@@ -19,7 +19,7 @@ Outside of tech, I am a passionate **pianist and composer**. I find a deep conne
 
 - 🎓 Specializing in Microsoft Azure ecosystems and DevOps methodologies.
 - 🎹 Composing melodies and arranging music pieces when pipelines are building.
-- 🔍 Actively looking for an **[Apprenticeship / Internship / First Job]** starting [Mois/Année].
+- 🔍 Actively looking for a **5-month Internship** starting **November 2nd, 2026**.
 
 ---
 
