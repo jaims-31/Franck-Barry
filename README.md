@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Franck-Barry?logo=github&style=flat-square&color=A970FF&labelColor=1c1c1c" alt="followers">
+  <img src="https://img.shields.io/github/followers/Franck-Barry?logo=github&style=flat-square&color=A970FF&labelColor=1c1c1c" alt="DevOps Student">
   <img src="https://img.shields.io/badge/Training-Simplon-red?style=flat-square&labelColor=1c1c1c" alt="Simplon">
   <img src="https://img.shields.io/badge/Location-France-blue?style=flat-square&color=A970FF&labelColor=1c1c1c" alt="location">
 </p>
