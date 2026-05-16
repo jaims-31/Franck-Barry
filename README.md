@@ -1,6 +1,6 @@
 <h1 align="center">🎹 Hi, I'm [Ton Prénom]</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A970FF&center=true&vCenter=true&width=450&lines=SysAdmin+/+DevOps+Trainee;Simplon+Student;Piano+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A970FF&center=true&vCenter=true&width=450&lines=SysAdmin+/+DevOps+Trainee;Pianist+%26+Composer;Simplon+Student" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,45 +13,44 @@
 
 ### 🎼 About Me
 
-Actuellement en formation d'**Administrateur Système DevOps** chez **Simplon**, j'apprends à automatiser, sécuriser et orchestrer des infrastructures cloud et on-premise. 
+I am currently training as a **Systems Administrator & DevOps Engineer** at **Simplon**, focusing on cloud infrastructure, automation, and continuous delivery. 
 
-Tout comme l'apprentissage du piano demande de la rigueur, de la pratique quotidienne et le respect du tempo, je construis mes compétences en SysAdmin/DevOps avec la même exigence de précision.
+Outside of tech, I am a passionate **pianist and composer**. I find a deep connection between creating music and engineering systems. To me, building a resilient, automated infrastructure is just like composing a symphony: every script, container, and pipeline must play in perfect harmony without a single false note.
 
-- 🎓 En pleine maîtrise de l'administration système et de la culture DevOps.
-- 🎹 Pianiste amateur passionné (je joue principalement du [ton style, ex: Classique / Musique de film]).
-- 🔍 À la recherche d'une **[Alternance / Stage / Premier emploi]** à partir de [Mois/Année].
-
----
-
-### 🛠️ The Instruments (Tech Stack)
-
-<p align="left">
-  <!-- Linux & Admin -->
-  <img src="https://img.shields.io/badge/Linux-1c1c1c?style=for-the-badge&logo=linux&logoColor=FCC624" />
-  <img src="https://img.shields.io/badge/Bash-1c1c1c?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25" />
-  <img src="https://img.shields.io/badge/Python-1c1c1c?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <br />
-  <!-- DevOps & Cloud (Tu peux enlever ce que tu n'as pas encore vu) -->
-  <img src="https://img.shields.io/badge/Docker-1c1c1c?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Git-1c1c1c?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-1c1c1c?style=for-the-badge&logo=github-actions&logoColor=2088FF" />
-  <img src="https://img.shields.io/badge/Ansible-1c1c1c?style=for-the-badge&logo=ansible&logoColor=EE0000" />
-</p>
+- 🎓 Specializing in Microsoft Azure ecosystems and DevOps methodologies.
+- 🎹 Composing melodies and arranging music pieces when pipelines are building.
+- 🔍 Actively looking for an **[Apprenticeship / Internship / First Job]** starting [Mois/Année].
 
 ---
 
-### 📊 Training Metrics
+### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=A970FF&text_color=c9d1d9&icon_color=A970FF&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=A970FF&text_color=c9d1d9&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+#### 🖥️ Système & Scripting
+`Linux` • `Bash / Shell` • `Python` • `WSL2`
+
+#### 🔄 Gestion de version (SCM)
+`Git`
+
+#### ☁️ Cloud Computing
+`Microsoft Azure` • `Services Core Azure (VMs, Storage, Functions, VNet)`
+
+#### 📦 Conteneurisation & Orchestration
+`Docker` • `Kubernetes (K8s)` • `AKS (Azure Kubernetes Service)`
+
+#### ⚙️ Automatisation & CI/CD
+`Azure DevOps` • `GitHub Actions` • `GitLab CI`
+
+#### 🛠️ Infrastructure as Code (IaC)
+`Terraform` • `Ansible` • `Bicep`
+
+#### 📊 Monitoring & Observabilité
+`Prometheus & Grafana` • `Azure Monitor`
 
 ---
 
 ### 📬 Let's Connect / Jam Together
 
-Je suis toujours ravi de discuter d'infrastructure, de scripts Bash ou de partitions de piano !
+Feel free to reach out to discuss cloud architecture, automation strategies, or sheet music!
 
 <p align="center">
   <a href="LIEN_DE_TON_LINKEDIN">
