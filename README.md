@@ -72,10 +72,6 @@ Outside of tech, I am a passionate **pianist and composer**. I find a deep conne
 Feel free to reach out to discuss cloud architecture, automation strategies, or sheet music!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/franck-barry-988467361/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/@jaimsmusic" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franck-barry-988467361/)
+  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jaimsmusic)
 </p>
