@@ -4,9 +4,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Franck-Barry?logo=github&style=flat-square&color=A970FF&labelColor=1c1c1c" alt="Followers">
-  <img src="https://img.shields.io/badge/Training-Simplon-red?style=flat-square&labelColor=1c1c1c" alt="Simplon">
-  <img src="https://img.shields.io/badge/Location-France-blue?style=flat-square&color=A970FF&labelColor=1c1c1c" alt="location">
+  <img src="https://img.shields.io/badge/DevOps-Student-A970FF?style=flat-square&labelColor=1c1c1c" alt="DevOps Student">
+  <img src="https://img.shields.io/badge/Cloud-Azure-%230089D6?style=flat-square&labelColor=1c1c1c" alt="Cloud">
+  <img src="https://img.shields.io/badge/Automation-Ansible%20%2F%20Terraform-%237B42BC?style=flat-square&labelColor=1c1c1c" alt="Automation">
+  <img src="https://img.shields.io/badge/Kubernetes-K8s%20%2F%20AKS-%23326CE5?style=flat-square&labelColor=1c1c1c" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/CI%2FCD-Pipelines-%232088FF?style=flat-square&labelColor=1c1c1c" alt="CI/CD">
 </p>
 
 ---
