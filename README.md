@@ -13,7 +13,7 @@
 
 ### 🎼 About Me
 
-I am currently training as a **Systems Administrator & DevOps ** at **Simplon**, focusing on cloud infrastructure, automation, and continuous delivery. 
+I am currently training as a **Systems Administrator & DevOps** at **Simplon**, focusing on cloud infrastructure, automation, and continuous delivery. 
 
 Outside of tech, I am a passionate **pianist and composer**. I find a deep connection between creating music and engineering systems. To me, building a resilient, automated infrastructure is just like composing a symphony: every script, container, and pipeline must play in perfect harmony without a single false note.
 
