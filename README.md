@@ -23,17 +23,46 @@ Outside of tech, I am a passionate **pianist and composer**. I find a deep conne
 
 ---
 
-### 🛠️ Tech Stack
+<h2 align="center">⚡ Tech Stack</h2>
 
-<p align="left">
-  <!-- OS, Scripting & Cloud -->
-  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black" alt="Linux"> <img src="https://img.shields.io/badge/bash-%234EAA25.svg?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash/Shell"> <img src="https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/WSL2-%230078D4.svg?style=flat-square&logo=windows&logoColor=white" alt="WSL2"> <img src="https://img.shields.io/badge/git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/Microsoft_Azure-%230089D6.svg?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure"> <img src="https://img.shields.io/badge/Azure_Core_Services-%230089D6.svg?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure Core Services">
+<p align="center"><b>Système & Scripting</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash/Shell">
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/WSL2-%230078D4.svg?style=for-the-badge&logo=windows&logoColor=white" alt="WSL2">
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
+
+<p align="center"><b>Cloud & Platforms</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure">
+  <img src="https://img.shields.io/badge/azure_core_services-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Core Services">
+</p>
+
+<p align="center"><b>DevOps & CI/CD</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/azure_devops-%230078D7.svg?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps">
+  <img src="https://img.shields.io/badge/github_actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/gitlab_ci-%23E24329.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI">
+</p>
+
+<p align="center"><b>Containers & Orchestration</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes (K8s)">
+  <img src="https://img.shields.io/badge/aks-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="AKS (Azure Kubernetes Service)">
+</p>
+
+<p align="center"><b>Infrastructure & Monitoring</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
+  <img src="https://img.shields.io/badge/bicep-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Bicep">
   <br />
-  <!-- Containers, Orchestration & CI/CD -->
-  <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes (K8s)"> <img src="https://img.shields.io/badge/AKS-%230089D6.svg?style=flat-square&logo=microsoft-azure&logoColor=white" alt="AKS (Azure Kubernetes Service)"> <img src="https://img.shields.io/badge/Azure_DevOps-%230078D7.svg?style=flat-square&logo=azure-devops&logoColor=white" alt="Azure DevOps"> <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"> <img src="https://img.shields.io/badge/GitLab_CI-%23E24329.svg?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI">
-  <br />
-  <!-- IaC & Monitoring -->
-  <img src="https://img.shields.io/badge/terraform-%237B42BC.svg?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"> <img src="https://img.shields.io/badge/ansible-%23EE0000.svg?style=flat-square&logo=ansible&logoColor=white" alt="Ansible"> <img src="https://img.shields.io/badge/Bicep-%230078D4.svg?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Bicep"> <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=flat-square&logo=Prometheus&logoColor=white" alt="Prometheus"> <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat-square&logo=Grafana&logoColor=white" alt="Grafana"> <img src="https://img.shields.io/badge/Azure_Monitor-%230089D6.svg?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure Monitor">
+  <img src="https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus">
+  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=Grafana&logoColor=white" alt="Grafana">
+  <img src="https://img.shields.io/badge/azure_monitor-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Monitor">
 </p>
 
 ---
